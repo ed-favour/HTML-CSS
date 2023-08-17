@@ -1,0 +1,218 @@
+
+p {
+  font-family: roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* CSS Specificity: works by pioritizng selectors;
+  selector that's more specific has heigher priority
+  class name selector has a more priority than element
+  selector/name */
+}
+.video-title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.video-stat {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+.video-author {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+.video-description {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+.apple-txt {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding: 18px 0;
+}
+.apple-txt span {
+  cursor: pointer;
+  margin: 1px;
+}
+.apple-txt span:hover {
+  text-decoration: underline;
+}
+.tahoma {
+  font-family: Tahoma;
+  font-size: 25px;
+  font-weight: bold;
+}
+.deal {
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.sales {
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(227, 65, 64);
+  font-style: italic;
+}
+.html-css {
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+}
+.pro {
+  font-family: Verdana;
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: gray;
+}
+.course {
+  font-family: Verdana;
+  font-size: 14px;
+  margin-bottom: 20px;
+  width: 280px;
+}
+.get-started {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: Verdana;
+  cursor: pointer;
+}
+.shopping {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.apple {
+  font-family: roboto;
+  font-size: 14px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.learn-more {
+  font-family: roboto;
+  font-size: 12px;
+  text-align: center;
+  color: blue;
+  cursor: pointer;
+}
+.new{
+  font-family: roboto;
+  font-size: 12px;
+  color: red;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.macbook{
+  font-family: roboto;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 5px;
+
+}
+.mac-charge{
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 7px;
+
+}
+.mac-price{
+  font-family: roboto;
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 5px;
+
+}
+.buy-btn{
+  background-color: #1c96e8;
+  color: white;
+  padding: 6px 14px 6px 14px;
+  border-radius: 14px;
+  font-family: roboto;
+  border: none;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-left: 48.9%;
+  cursor: pointer;
+}
+.usd-price{
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.usd-price span{
+  font-family: roboto;
+  font-size: 14px;
+  color: gray;
+}
+.current-price{
+  font-family: roboto;
+  font-size: 14px;
+  color: green;
+  margin-bottom: 5px;
+}
+.hour{
+  font-family: roboto;
+  font-size: 14px;
+  color: gray;
+}
+.hour span{
+  color: red;
+}
+.code-camp{
+  font-family: roboto;
+  font-size: 15px;
+  margin: 5px;
+  font-weight: bold;
+}
+.code-camp span{
+  color: gray;
+}
+.code-description{
+  font-family: roboto;
+  font-size: 15px;
+  width: 500px;
+  margin: 5px;
+}
+.code-link{
+  font-family: roboto;
+  font-size: 15px;
+}
+.code-link span{
+  color: blue;
+  cursor: pointer;
+}
+.model{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+.order{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+.order span{
+  text-decoration: underline;
+}
